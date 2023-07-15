@@ -1,7 +1,4 @@
-<a href="https://chat.vercel.ai/">
-  <img alt="Next.js 13 and app template Router-ready AI chatbot." src="https://chat.vercel.ai/opengraph-image.png">
-  <h1 align="center">Next.js AI Chatbot</h1>
-</a>
+
 
 <p align="center">
   An open-source AI chatbot app template built with Next.js, the Vercel AI SDK, OpenAI, and Vercel KV.
@@ -30,9 +27,6 @@
 - Chat History, rate limiting, and session storage with [Vercel KV](https://vercel.com/storage/kv)
 - [NextAuth.js](https://github.com/nextauthjs/next-auth) for authentication
 
-## Model Providers
-
-This template ships with OpenAI `gpt-3.5-turbo` as the default. However, thanks to the [Vercel AI SDK](https://sdk.vercel.ai/docs), you can switch LLM providers to [Anthropic](https://anthropic.com), [Hugging Face](https://huggingface.co), or using [LangChain](https://js.langchain.com) with just a few lines of code.
 
 ## Deploy Your Own
 
